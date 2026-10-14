@@ -1,0 +1,12 @@
+{
+	"name": "unirate-api",
+	"url": "https://unirateapi.com",
+	"license": "MIT",
+	"tags": ["currency", "exchange-rates", "forex", "vat", "fintech", "api", "unirate"],
+	"description": "Official Haxe client for the UniRate API — free currency exchange rates, historical data, and VAT rates. Zero dependencies (haxe.Http + haxe.Json).",
+	"version": "0.1.0",
+	"classPath": "src",
+	"releasenote": "Initial release.",
+	"contributors": ["unirateapi"],
+	"dependencies": {}
+}

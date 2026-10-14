@@ -1,0 +1,6 @@
+# Mock test suite (offline; injected transport).
+#   haxe test.hxml
+-cp src
+-cp test
+-main TestClient
+--interp

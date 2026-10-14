@@ -1,0 +1,6 @@
+# Live test suite (free-tier endpoints; needs UNIRATE_API_KEY).
+#   UNIRATE_API_KEY=... haxe live.hxml
+-cp src
+-cp test
+-main LiveTest
+--interp
